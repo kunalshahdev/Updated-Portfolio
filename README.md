@@ -75,7 +75,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Built with by Kunal Shah**
-# Updated-Portfolio
-# Updated-Portfolio
-# Updated-Portfolio
+**Built by Kunal Shah**
+
